@@ -1,0 +1,4 @@
+.gitignore
+.idea
+cardfetcher/__pycache__
+img
