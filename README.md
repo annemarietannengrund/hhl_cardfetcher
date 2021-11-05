@@ -3,4 +3,4 @@ Python based cardfetching from the horus heresy legion website
 
 # python requirements
 
-`pip install beautifulsoup4 requests`
+`pip install -r requirements.txt`
